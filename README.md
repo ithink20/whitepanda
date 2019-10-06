@@ -18,7 +18,7 @@ Make sure you have all the above dependencies .
 
 **Step 1**  Clone this github repository using the follow command:
 ```
-https://github.com/ithink20/whitepanda.git
+git clone https://github.com/ithink20/whitepanda.git
 ```
 **Step 2**  Install all required packages:
 ```
